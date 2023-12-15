@@ -1,0 +1,26 @@
+-classpath
+'/Users/steven/.m2/repository/javax/javaee-api/8.0/javaee-api-8.0.jar:/Users/steven/.m2/repository/com/sun/mail/javax.mail/1.6.0/javax.mail-1.6.0.jar:/Users/steven/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar:/Users/steven/.m2/repository/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar:/Users/steven/.m2/repository/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar:/Users/steven/.m2/repository/org/apache/commons/commons-dbcp2/2.11.0/commons-dbcp2-2.11.0.jar:/Users/steven/.m2/repository/org/apache/commons/commons-pool2/2.12.0/commons-pool2-2.12.0.jar:/Users/steven/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/steven/.m2/repository/jakarta/transaction/jakarta.transaction-api/1.3.3/jakarta.transaction-api-1.3.3.jar:/Users/steven/.m2/repository/org/codehaus/mojo/exec-maven-plugin/3.0.0/exec-maven-plugin-3.0.0.jar:/Users/steven/.m2/repository/org/apache/maven/maven-model/3.0/maven-model-3.0.jar:/Users/steven/.m2/repository/org/apache/maven/maven-artifact/3.0/maven-artifact-3.0.jar:/Users/steven/.m2/repository/org/apache/maven/maven-core/3.0/maven-core-3.0.jar:/Users/steven/.m2/repository/org/apache/maven/maven-settings/3.0/maven-settings-3.0.jar:/Users/steven/.m2/repository/org/apache/maven/maven-settings-builder/3.0/maven-settings-builder-3.0.jar:/Users/steven/.m2/repository/org/apache/maven/maven-repository-metadata/3.0/maven-repository-metadata-3.0.jar:/Users/steven/.m2/repository/org/apache/maven/maven-model-builder/3.0/maven-model-builder-3.0.jar:/Users/steven/.m2/repository/org/sonatype/aether/aether-impl/1.7/aether-impl-1.7.jar:/Users/steven/.m2/repository/org/sonatype/aether/aether-spi/1.7/aether-spi-1.7.jar:/Users/steven/.m2/repository/org/sonatype/aether/aether-api/1.7/aether-api-1.7.jar:/Users/steven/.m2/repository/org/sonatype/aether/aether-util/1.7/aether-util-1.7.jar:/Users/steven/.m2/repository/org/sonatype/sisu/sisu-inject-plexus/1.4.2/sisu-inject-plexus-1.4.2.jar:/Users/steven/.m2/repository/org/sonatype/sisu/sisu-inject-bean/1.4.2/sisu-inject-bean-1.4.2.jar:/Users/steven/.m2/repository/org/sonatype/sisu/sisu-guice/2.1.7/sisu-guice-2.1.7-noaop.jar:/Users/steven/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.14/plexus-interpolation-1.14.jar:/Users/steven/.m2/repository/org/codehaus/plexus/plexus-classworlds/2.2.3/plexus-classworlds-2.2.3.jar:/Users/steven/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.jar:/Users/steven/.m2/repository/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.jar:/Users/steven/.m2/repository/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.jar:/Users/steven/.m2/repository/org/apache/maven/maven-plugin-api/3.0/maven-plugin-api-3.0.jar:/Users/steven/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.20/plexus-utils-3.0.20.jar:/Users/steven/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/steven/.m2/repository/org/apache/maven/shared/maven-artifact-transfer/0.10.1/maven-artifact-transfer-0.10.1.jar:/Users/steven/.m2/repository/org/apache/maven/shared/maven-common-artifact-filters/3.0.1/maven-common-artifact-filters-3.0.1.jar:/Users/steven/.m2/repository/org/apache/maven/shared/maven-shared-utils/3.1.0/maven-shared-utils-3.1.0.jar:/Users/steven/.m2/repository/commons-io/commons-io/2.5/commons-io-2.5.jar:/Users/steven/.m2/repository/commons-codec/commons-codec/1.11/commons-codec-1.11.jar:/Users/steven/.m2/repository/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'/Users/steven/Downloads/CrudServletJSP-main/JavaServletJSP/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/steven/Downloads/CrudServletJSP-main/JavaServletJSP/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'JavaServletJSP 1.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/Users/steven/Downloads/CrudServletJSP-main/JavaServletJSP/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'JavaServletJSP 1.0 API'
